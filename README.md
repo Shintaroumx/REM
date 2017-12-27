@@ -1,0 +1,2 @@
+# REM
+The game draws materials from a Japanese animation and the player will play the role of one of the characters in this animation. The game is designed for mobile platforms and should be a mini one which means simple and easy to control. The player should use the weapon and skills to kill enemies and the game will become increasingly harder as time goes on which will be reflected by levels on the screen. Just survive as much time as possible. The levels are also seen as your result.
